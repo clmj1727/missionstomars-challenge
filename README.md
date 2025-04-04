@@ -48,4 +48,6 @@ This project strengthens core skills like collecting, organizing, storing, analy
 ---
 ## License
 
+The Mars News website Links to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News Links to an external site. website in November 2022. Images are used according to the JPL Image Use Policy Links to an external site., courtesy NASA/JPL-Caltech.
+
 This project is for educational use only. No commercial use is allowed.
