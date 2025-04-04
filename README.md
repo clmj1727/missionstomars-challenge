@@ -16,7 +16,7 @@ This project strengthens core skills like collecting, organizing, storing, analy
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/climate-analysis.git](https://github.com/clmj1727/missionstomars-challenge.git)
+    git clone https://github.com/clmj1727/missionstomars-challenge.git
     cd missionstomars-challenge
     ```
 
