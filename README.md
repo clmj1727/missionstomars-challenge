@@ -16,8 +16,8 @@ This project strengthens core skills like collecting, organizing, storing, analy
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/climate-analysis.git
-    cd climate-analysis
+    git clone [https://github.com/your-username/climate-analysis.git](https://github.com/clmj1727/missionstomars-challenge.git)
+    cd missionstomars-challenge
     ```
 
 2. Set up a virtual environment:
@@ -26,19 +26,9 @@ This project strengthens core skills like collecting, organizing, storing, analy
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
     ```
 
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Launch the Jupyter notebook to explore the data:
+3.  Launch the Jupyter notebook to explore the data:
     ```bash
     jupyter notebook
-    ```
-
-5. Run the Flask API:
-    ```bash
-    python app.py
     ```
 
 ---
